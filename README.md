@@ -14,3 +14,5 @@ B realizo la copia del repositorio.
 Posteriormente A y B realizarón pruebas de commint para confirmar que ambos podían editar el archivo
 
 El link del repositorio es: https://github.com/iruminot/CalculadoraPythonista.git, y creamos el archivo CalculadoraPythonista.ipynb
+
+Prueba de rama realase 
