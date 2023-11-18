@@ -16,3 +16,5 @@ Posteriormente A y B realizarón pruebas de commint para confirmar que ambos pod
 El link del repositorio es: https://github.com/iruminot/CalculadoraPythonista.git, y creamos el archivo CalculadoraPythonista.ipynb
 
 Prueba de rama realase 
+
+Se generan ramas de suma, resta, división y multiplicación en la rama feature/"operación"
