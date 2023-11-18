@@ -12,3 +12,5 @@ A genero el repositorio con el archivo README.md y el link para copiar
 B realizo la copia del repositorio.
 
 Posteriormente A y B realizarón pruebas de commint para confirmar que ambos podían editar el archivo
+
+El link del repositorio es: https://github.com/iruminot/CalculadoraPythonista.git, y creamos el archivo CalculadoraPythonista.ipynb
