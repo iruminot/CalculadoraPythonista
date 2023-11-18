@@ -17,8 +17,13 @@ El link del repositorio es: https://github.com/iruminot/CalculadoraPythonista.gi
 
 Prueba de rama realase 
 
-B: Genera ramas de suma, resta, división y multiplicación en la rama feature/"operación"
 
-Lo anterior es para la calculadora básica. que deben ser testeadas.
+A: Genera el archivo CalculadoraPythonista.ipynb, este contendrá la calculadora "Básica" con las operaciones suma, resta, multiplicación, división, potencia y raices.
+
+B: Genera ramas de suma, resta, división, multiplicación, potencia y raiz en la rama feature/"operación"
 
 A: genera ramas de calculadora avanzada la cual tambien debe ser testeada.
+
+La CalculadoraPythonista
+
+B: Genera el archivo CalculadoraPythonista2.ipynb con las oeraciones avanzadas que incluye seno, coseno, tangente y logartimo en la rama features2/"operación"
