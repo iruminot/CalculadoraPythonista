@@ -22,8 +22,8 @@ A: Genera el archivo CalculadoraPythonista.ipynb, este contendrá la calculadora
 
 B: Genera ramas de suma, resta, división, multiplicación, potencia y raiz en la rama feature/"operación"
 
-A: genera ramas de calculadora avanzada la cual tambien debe ser testeada.
+A: Genera en el archivo CalculadoraPythonista.ipynb con las opraciones avanzadas que incluye seno, coseno, tangente y logartimo en la rama features/"operación".
 
-La CalculadoraPythonista
+A: Revisa las ramas y operaciones de B
+B: Revisa las ramas y operaciones de A
 
-B: Genera el archivo CalculadoraPythonista2.ipynb con las oeraciones avanzadas que incluye seno, coseno, tangente y logartimo en la rama features2/"operación"
