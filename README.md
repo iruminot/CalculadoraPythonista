@@ -43,3 +43,7 @@ Se realizo una prueba de ramas entre A y B para visualizar los cambios de la ram
 Se decide eliminar los archivos basicas.ipynb y avanzadas.ipynb con el fin de establecer un orden a las operaciones. Para ello se crean los archivos calculadora_basica.py y calculadora_avanzada.py que corresponde a dos modulos que contienen las operaciones de la Calculadora Pythonista.
 
 Adicionalmente, se modifica el archivo CalculadoraPythonista.ipynb donde se le agrega la funcion calc la cual corresponde a una funcion de eleccion del tipo de calculadora se desea usar.
+
+Finalmente se corrige un error en la salida de la funcion cacl.
+
+Hacemos notar que inicialmente el README se modificaba en la rama release, pero al momento de ejecutar el merge generaba errores de versiones, por lo que se decidió abortar el merge, modificar el archivo e indaga en como solucionar el inconveniente. La solucion fue comparar los archivos, mezclarlos y ejecutar un push para luego mezclar las ramas.
