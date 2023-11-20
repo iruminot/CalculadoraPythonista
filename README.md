@@ -37,5 +37,5 @@ Se creo un error al fusionar las dos ramas, se creo el conflicto y se aborto con
 
 Adicionalmente A creo ramas prueba1 y prueba2 para probar la fusión con el comando "git merge", este genero un error de conflicto.
 
-
+Comentario de prueba por error para subir al respositorio.
 
