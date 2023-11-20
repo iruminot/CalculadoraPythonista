@@ -9,7 +9,7 @@ def calculadora_basica():
     eleccion = int(input("Elige una opción: "))
     
     if eleccion == 7:
-        return 0
+        return None
     elif eleccion < 1 or eleccion > 7:
         print("\nOpción no válida. Por favor, elige una opción entre 1 y 7.")
         calculadora_basica()
