@@ -1,12 +1,14 @@
 ## CalculadoraPythonista
 Tarea 2, Programación Avanzada, MSC
 
-primer commit
+**primer commit**
 
 segundo commit de prueba 
 
-A: Ignacio Ruminot
-B: Danilo Delgado
+*A: Ignacio Ruminot*
+*B: Danilo Delgado*
+
+# Descripción de lo desarrollado
 
 A genero el repositorio con el archivo README.md y el link para copiar
 B realizo la copia del repositorio.
