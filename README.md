@@ -37,6 +37,9 @@ Se creo un error al fusionar las dos ramas, se creo el conflicto y se aborto con
 
 Adicionalmente A creo ramas prueba1 y prueba2 para probar la fusión con el comando "git merge", este genero un error de conflicto.
 
+Se realizo una prueba de ramas entre A y B para visualizar los cambios de la rama "features/logaritmo"
 
-Se realizao una prueba de ramas entre A y B para visualizar los cambios de la rama "features/logaritmo"
+## Actualizacion de CalculadoraPythonista
+Se decide eliminar los archivos basicas.ipynb y avanzadas.ipynb con el fin de establecer un orden a las operaciones. Para ello se crean los archivos calculadora_basica.py y calculadora_avanzada.py que corresponde a dos modulos que contienen las operaciones de la Calculadora Pythonista.
 
+Adicionalmente, se modifica el archivo CalculadoraPythonista.ipynb donde se le agrega la funcion calc la cual corresponde a una funcion de eleccion del tipo de calculadora se desea usar.
