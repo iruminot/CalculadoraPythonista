@@ -27,3 +27,7 @@ A: Genera en el archivo CalculadoraPythonista.ipynb con las opraciones avanzadas
 A: Revisa las ramas y operaciones de B
 B: Revisa las ramas y operaciones de A
 
+Se actaulizarón las funciones suma, resta, multiplicación, división y cociente por un error en el código.
+
+Se realizao una prueba de ramas entre A y B para visualizar los cambios de la rama "features/logaritmo"
+
