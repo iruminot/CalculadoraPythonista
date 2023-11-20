@@ -33,7 +33,7 @@ Se actaulizarón las funciones suma, resta, multiplicación, división y cocient
 # Error
 Se realizao una prueba de ramas entre A y B para visualizar los cambios de la rama "features/logaritmo"
 
-Se creo un error al fusionar las dos ramas, se creo el conflicto y se aborto con "git merge --abort"
+Se creo un error al fusionar las dos ramas, se creo el conflicto y se aborto con "git merge --abort".
 
 Adicionalmente A creo ramas prueba1 y prueba2 para probar la fusión con el comando "git merge", este genero un error de conflicto.
 
